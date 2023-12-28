@@ -1,0 +1,17 @@
+D:\OOP\Cafe_Lab\cafe class\obj\Debug\net8.0-windows\cafe_class.Form1.resources
+D:\OOP\Cafe_Lab\cafe class\obj\Debug\net8.0-windows\cafe_class.Properties.Resources.resources
+D:\OOP\Cafe_Lab\cafe class\obj\Debug\net8.0-windows\cafe class.csproj.GenerateResource.cache
+D:\OOP\Cafe_Lab\cafe class\obj\Debug\net8.0-windows\cafe class.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\Cafe_Lab\cafe class\obj\Debug\net8.0-windows\cafe class.AssemblyInfoInputs.cache
+D:\OOP\Cafe_Lab\cafe class\obj\Debug\net8.0-windows\cafe class.AssemblyInfo.cs
+D:\OOP\Cafe_Lab\cafe class\obj\Debug\net8.0-windows\cafe class.csproj.CoreCompileInputs.cache
+D:\OOP\Cafe_Lab\cafe class\bin\Debug\net8.0-windows\cafe class.exe
+D:\OOP\Cafe_Lab\cafe class\bin\Debug\net8.0-windows\cafe class.deps.json
+D:\OOP\Cafe_Lab\cafe class\bin\Debug\net8.0-windows\cafe class.runtimeconfig.json
+D:\OOP\Cafe_Lab\cafe class\bin\Debug\net8.0-windows\cafe class.dll
+D:\OOP\Cafe_Lab\cafe class\bin\Debug\net8.0-windows\cafe class.pdb
+D:\OOP\Cafe_Lab\cafe class\obj\Debug\net8.0-windows\cafe class.dll
+D:\OOP\Cafe_Lab\cafe class\obj\Debug\net8.0-windows\refint\cafe class.dll
+D:\OOP\Cafe_Lab\cafe class\obj\Debug\net8.0-windows\cafe class.pdb
+D:\OOP\Cafe_Lab\cafe class\obj\Debug\net8.0-windows\cafe class.genruntimeconfig.cache
+D:\OOP\Cafe_Lab\cafe class\obj\Debug\net8.0-windows\ref\cafe class.dll
